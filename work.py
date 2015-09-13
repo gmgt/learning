@@ -9,6 +9,11 @@
 # print("120%67=", 120 % 67)
 # input("press the enter")
 # input("\n\nPress the enter key to exit.")
-name = "word"
-print("i learn", name + "s")
+# name = "word"
+# print("i learn", name + "s")
+# input("enter")
+# v means variable
+v = input("Сколько будет два плюс два?")
+print("Ваш ответ: ", v)
+print("Верный ответ: ", 2+2)
 input("enter")
