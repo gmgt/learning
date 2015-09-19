@@ -9,11 +9,25 @@
 
 #input ("enter")
 
-s = input("text ")
+#s = input("text ")
 
-if s == "text":
-    print("o/")
-else:
-    print("\o")
+#if s == "text":
+#    print("o/")
+#else:
+#    print("\o")
 
+#input("enter")
+
+import random
+n = random.randint(1,5)
+if n == 1:
+    print("a")
+elif n == 2:
+    print("b")
+elif n == 3:
+    print("c")
+elif n == 4:
+    print("d")
+elif n == 5:
+    print("e")
 input("enter")
