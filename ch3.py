@@ -13,5 +13,7 @@ s = input("text ")
 
 if s == "text":
     print("o/")
+else:
+    print("\o")
 
 input("enter")
