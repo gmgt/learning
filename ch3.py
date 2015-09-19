@@ -1,10 +1,17 @@
 #попытка создать "Случайное число"
 
-import random
+#import random
 
-k1 = random.randint(1, 10)
-k2 = random.randrange(10)
+#k1 = random.randint(1, 10)
+#k2 = random.randrange(10)
 
-print(k1, k2)
+#print(k1, k2)
 
-input ("enter")
+#input ("enter")
+
+s = input("text ")
+
+if s == "text":
+    print("o/")
+
+input("enter")
